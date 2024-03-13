@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj": {}
+    "D:\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj": {
+    "D:\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj",
+        "projectUniqueName": "D:\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj",
         "projectName": "modul4_1302223051",
-        "projectPath": "D:\\New folder\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj",
+        "projectPath": "D:\\modul4_1302223051\\modul4_1302223051\\modul4_1302223051.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\modul4_1302223051\\modul4_1302223051\\obj\\",
+        "outputPath": "D:\\modul4_1302223051\\modul4_1302223051\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
